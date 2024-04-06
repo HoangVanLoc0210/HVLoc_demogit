@@ -1,4 +1,4 @@
 git init: khởi tạo local repository
 git add <ten file>: đưa các thay đổi của file vào vùng nhớ staging area
 git add . : đưa tất cả...
-git commit
+git commit -m "ghi chu gi đó": đưa cac câu lệnh từ staging area vào local repository và lưu lại một snapshot tại thời điểm đó.
